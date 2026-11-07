@@ -1,5 +1,5 @@
 Actividad 1
-📊 Datasets utilizados
+Datasets utilizados
 
 Para el desarrollo de esta actividad se utilizaron los siguientes conjuntos de datos:
 
